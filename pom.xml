@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.tmarwen.tools</groupId>
+  <groupId>com.github.wisebrains.tools</groupId>
   <artifactId>scm-manager</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
@@ -121,7 +121,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.github.tmarwen.scm.cli.MavenSvnCli</mainClass>
+              <mainClass>com.github.wisebrains.scm.cli.MavenSvnCli</mainClass>
             </manifest>
           </archive>
         </configuration>
@@ -183,7 +183,7 @@
               </descriptors>
               <archive>
                 <manifestEntries>
-                  <Main-Class>com.github.tmarwen.scm.cli.MavenSvnCli</Main-Class>
+                  <Main-Class>com.github.wisebrains.scm.cli.MavenSvnCli</Main-Class>
                 </manifestEntries>
               </archive>
               <appendAssemblyId>true</appendAssemblyId>
