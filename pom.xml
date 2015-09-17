@@ -181,6 +181,7 @@
               <descriptors>
                 <descriptor>src/assembly/all-in-one.xml</descriptor>
               </descriptors>
+              <outputDirectory>${project.basedir}/dist/${project.version}</outputDirectory>
               <archive>
                 <manifestEntries>
                   <Main-Class>com.github.wisebrains.scm.cli.MavenSvnCli</Main-Class>
