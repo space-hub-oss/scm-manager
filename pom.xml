@@ -9,7 +9,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <name>Tools :: SCM Manager</name>
-  <description>An SCM Manager that performs can update a respository and build the affected modules</description>
+  <description>An SCM Manager that can update a repository and build the affected modules</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -1,2 +1,2 @@
 # scm-manager
-An SCM Manager that performs can update a respository and build the affected modules
+An SCM Manager that can update a repository and build the affected modules
